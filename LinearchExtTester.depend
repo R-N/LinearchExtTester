@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1488106266 source:c:\users\acer2\downloads\linearchexttester\main.cpp
+	<iostream>
+	"Behaviour.hpp"
+	"Camera.hpp"
+	"Collider.hpp"
+	"Component.hpp"
+	"GameObject.hpp"
+	"Misc.hpp"
+	"Physics.hpp"
+	"Renderer.hpp"
+	"Rigidbody.hpp"
+	"Transform.hpp"
+	"transform.hpp"
+	"Vector2.hpp"
+
+1488041731 c:\users\acer2\downloads\linearchexttester\misc.hpp
+	<cmath>
+
+1488101833 c:\users\acer2\downloads\linearchext\misc.hpp
+	<cmath>
+
+1488107334 c:\users\acer2\downloads\linearchext\behaviour.hpp
+	"Component.hpp"
+
+1488107306 c:\users\acer2\downloads\linearchext\component.hpp
+	<string>
+	<iostream>
+
+1488102675 c:\users\acer2\downloads\linearchext\camera.hpp
+	"Component.hpp"
+
+1488101812 c:\users\acer2\downloads\linearchext\collider.hpp
+	"Component.hpp"
+	"GameObject.hpp"
+	"Vector2.hpp"
+	<list>
+	"Physics.hpp"
+
+1488104710 c:\users\acer2\downloads\linearchext\gameobject.hpp
+	<list>
+	"Component.hpp"
+	<string>
+
+1488106341 c:\users\acer2\downloads\linearchext\vector2.hpp
+	<cmath>
+	<iostream>
+
+1488101851 c:\users\acer2\downloads\linearchext\physics.hpp
+	<cmath>
+	"Vector2.hpp"
+
+1488101866 c:\users\acer2\downloads\linearchext\renderer.hpp
+	"Component.hpp"
+	<list>
+	"GameObject.hpp"
+
+1488106767 c:\users\acer2\downloads\linearchext\rigidbody.hpp
+	"Component.hpp"
+	"Vector2.hpp"
+	<list>
+	"GameObject.hpp"
+	"Collider.hpp"
+
+1488103593 c:\users\acer2\downloads\linearchext\transform.hpp
+	"Vector2.hpp"
+	"Component.hpp"
+	<vector>
+
